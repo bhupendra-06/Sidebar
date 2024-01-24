@@ -1,3 +1,4 @@
+This is a Responsive Sidebar using React useState() Hook
 ## Available Scripts
 
 In the project directory, you can run:
